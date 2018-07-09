@@ -1,0 +1,20 @@
+  2 4 2
+3 6 6 6 3
+4 8 8 8 4
+4 8 8 8 4
+3 6 6 6 3
+  2 4 2
+
+James 4
+Michale 10
+Richard 8
+Parker 100
+Tyson 3
+Williams 4
+Brown 8
+Miller 12
+Max 0
+Tate 6
+Emily 7
+Kenny 5
+Tala 98

@@ -1,0 +1,13 @@
+James - Row 1 Section 2
+Michale - Call to split party.
+Richard - Row 3 Section 2
+Parker - Call to split party.
+Tyson - Row 2 Section 1
+Williams - Row 4 Section 1
+Brown - Row 3 Section 3
+Miller - Call to split party.
+Max - Invalid request. Either name and/or requested seats have invalid entry.
+Tate - Row 2 Section 2
+Emily - Row 3 Section 4
+Kenny - Row 2 Section 3
+Tala - Sorry, we can't handle your party.
