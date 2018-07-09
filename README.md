@@ -19,30 +19,30 @@ Your program must produce results to standard output in the same order as the re
 ** Sample input&output
 
 Sample input:
-6 6 
-3 5 5 3 
-4 6 6 4 
-2 8 8 2 
+6 6
+3 5 5 3
+4 6 6 4
+2 8 8 2
 6 6
 
-Smith 2 
-Jones 5 
-Davis 6 
-Wilson 100 
-Johnson 3 
-Williams 4 
-Brown 8 
+Smith 2
+Jones 5
+Davis 6
+Wilson 100
+Johnson 3
+Williams 4
+Brown 8
 Miller 12
 
 Sample output:
 
-Smith Row 1 Section 1 
-Jones Row 2 Section 2 
-Davis Row 1 Section 2 
-Wilson Sorry, we can't handle your party. 
-Johnson Row 2 Section 1 
-Williams Row 1 Section 1 
-Brown Row 4 Section 2 
+Smith Row 1 Section 1
+Jones Row 2 Section 2
+Davis Row 1 Section 2
+Wilson Sorry, we can't handle your party.
+Johnson Row 2 Section 1
+Williams Row 1 Section 1
+Brown Row 4 Section 2
 Miller Call to split party.
 
 **Execution steps: 
@@ -59,30 +59,30 @@ Miller Call to split party.
 Example:
 Save “input.txt” with the content as below
 
-6 6 
-3 5 5 3 
-4 6 6 4 
-2 8 8 2 
+6 6
+3 5 5 3
+4 6 6 4
+2 8 8 2
 6 6
 
-Smith 2 
-Jones 5 
-Davis 6 
-Wilson 100 
-Johnson 3 
-Williams 4 
-Brown 8 
+Smith 2
+Jones 5
+Davis 6
+Wilson 100
+Johnson 3
+Williams 4
+Brown 8
 Miller 12
 
 Run the command “java -jar TheaterSeating-1.0.2.jar input.txt”
 
 The following output is printed to console
 
-Smith Row 1 Section 1 
-Jones Row 2 Section 2 
-Davis Row 1 Section 2 
-Wilson Sorry, we can't handle your party. 
-Johnson Row 2 Section 1 
-Williams Row 1 Section 1 
-Brown Row 4 Section 2 
+Smith Row 1 Section 1
+Jones Row 2 Section 2
+Davis Row 1 Section 2
+Wilson Sorry, we can't handle your party.
+Johnson Row 2 Section 1
+Williams Row 1 Section 1
+Brown Row 4 Section 2
 Miller Call to split party.
