@@ -19,11 +19,11 @@ Your program must produce results to standard output in the same order as the re
 ** Sample input&output
 
 Sample input:
-6 6
-3 5 5 3
-4 6 6 4
-2 8 8 2
-6 6
+ 6 6  
+ 3 5 5 3  
+ 4 6 6 4  
+ 2 8 8 2  
+ 6 6 
 
 Smith 2
 Jones 5
